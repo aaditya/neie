@@ -2,18 +2,22 @@
 
 ## Plans
 
+> Will change the repository too.
+
+> Keep overall dependencies to minumum.
+
+> Open source it.
+
 > Rework the entire project to core Node based setup.
 
-> ReDo the front end later.
+> Rework the front end and migrate from angularJS.
 
-## Installation and Running
+## Installation and Running (please don't)
 
 > npm i
 
 > npm start
 
 ## Current Status
-
-> modules/forms.js is the post routes for profile/project save
 
 > ~~rest all is already working~~
